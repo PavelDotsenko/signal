@@ -1,0 +1,25 @@
+{
+  "name": "signal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelDotsenko/signal.git"
+  },
+  "author": "PavelDotsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelDotsenko/signal/issues"
+  },
+  "homepage": "https://github.com/PavelDotsenko/signal#readme",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "canvas": "^2.6.1",
+    "moment": "^2.24.0"
+  }
+}
